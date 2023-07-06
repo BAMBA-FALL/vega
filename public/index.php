@@ -29,4 +29,4 @@
 
      //Amorçage de l'application (charger les fichiers de configuration)
 
-    require __DIR__ . "/../config/bootstrap.php";
+ require __DIR__ . "/../config/bootstrap.php";
